@@ -10,3 +10,10 @@ What I needed was:
 *	Signup for any and all shifts they could fill.
 *	Get email reminders of their upcoming shift.
 *	Allow me to print/email the schedule for anyone who wanted a copy
+
+
+## Screenshots
+
+![Alt text](bo01.jpg)
+![Alt text](bo02.jpg)
+![Alt text](bo03.jpg)
