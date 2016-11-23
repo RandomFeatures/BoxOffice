@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	text-decoration: none;
+	border: 1px;
+	list-style: none;
+	outline: 1px;
+}
+
+body {
+    background: #fff;
+    font: 13px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #536376;
+}
+
+h1 {
+text-align:center;
+font-family:Arial;
+font-size:16px;
+font-weight:bold;
+padding-bottom: 5px;
+}
+
+h2 {
+text-align:center;
+font-family:Arial;
+font-size:24px;
+font-weight:bold;
+padding-bottom: 5px;
+color: #600010;
+padding: 5px;
+}
+
+
+table
+{
+border-width: 0 0 1px 1px;
+border-spacing: 0;
+border-collapse: collapse;
+border-style: solid;
+}
+ 
+td 
+{
+text-align:center;
+margin: 0;
+padding: 4px;
+border-width: 1px 1px 0 0;
+border-style: solid;
+}
+
