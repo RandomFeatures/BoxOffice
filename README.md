@@ -9,4 +9,4 @@ What I needed was:
 *	A way for volunteers to know in real time which shifts were filled and which ones were in need.
 *	Signup for any and all shifts they could fill.
 *	Get email reminders of their upcoming shift.
-*	Allow me to print/email the schedule for anyone wh wanted a copy
+*	Allow me to print/email the schedule for anyone who wanted a copy
